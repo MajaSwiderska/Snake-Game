@@ -57,7 +57,7 @@ Cartoon-Pink-Snake-Game/
 ## 🚀 Play the Game
 
 ```
-https://majaswiderska.github.io/Snake-Game/
+https://majaswiderska.github.io/Pink-Snake-Game/
 ```
 
 ---
