@@ -44,7 +44,7 @@ If you crash, the game ends and your final score appears.
 ## 📂 Project Structure
 
 ```
-Cartoon-Pink-Snake-Game/
+Pink-Snake-Game/
 │
 ├── index.html      # Main game page
 ├── style.css       # Game styling and layout
@@ -76,5 +76,6 @@ Possible features to add:
 
 ## 👩‍💻 Author
 
-Created as a fun **web development project** using JavaScript and browser-based graphics.
+Created as a fun **web development project** using JavaScript and browser-based graphics. 
+Still work in progress, trying to make it more graphic!
 
