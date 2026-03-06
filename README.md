@@ -76,5 +76,6 @@ Possible features to add:
 
 ## 👩‍💻 Author
 
-Created as a fun **web development project** using JavaScript and browser-based graphics.
+Created as a fun **web development project** using JavaScript and browser-based graphics. 
+Still work in progress, trying to make it more graphic!
 
